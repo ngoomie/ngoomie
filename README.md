@@ -13,6 +13,9 @@ I don't really know what I'm supposed to put here because I am extremely uninter
   - 🟧 DBI
   - 🟥 Mojolicious
 - 🟧 Learn SQL
+  - 🟧 SQLite
+  - 🟥 MySQL
+  - 🟦 maybe poke around at what other SQL DB stuff there is out there
 - 🟥 Learn Java
   - 🟥 Minecraft modding stuff
 - 🟥 Learn SCSS
