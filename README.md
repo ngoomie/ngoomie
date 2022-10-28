@@ -21,3 +21,4 @@ I don't really know what I'm supposed to put here because I am extremely uninter
 - 🟥 Learn SCSS
 - 🟦 Learn JavaScript + CoffeeScript (check out maybe PureScript instead?)
 - 🟦 ...Rust?
+- 🟦 ......Haskell??
