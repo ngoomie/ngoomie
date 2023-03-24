@@ -1,24 +1,9 @@
-i'm ngoomie and i'm STUPID
+i'm ngoomie and i stink
 
 I like Perl and webshite and sysadmin but I'm not good at any of them — maybe sysadmin if you're being really really generous
 
-My go-to server Linux distros are Fedora for general purpose stuff, Debian or Devuan for things I want to set up and largely "forget" about, and Alpine Linux for really lightweight junk
+My go-to Linux distros are Fedora and Rocky Linux for general prupose desktop and server stuff respectively, and Debian or Devuan for "set and forget" type server stuff
 
-I don't really know what I'm supposed to put here because I am extremely uninteresting
+I currently know a decent amount of Perl and some SQL, and am in the process of learning Python
 
-### to-do
-\[ 🟥: no progress | 🟧: in progress | 🟩: complete w/ unfinished subtasks | 🟪: some progress made but on hold | 🟦: maybe? \]
-
-- 🟧 Learn Perl, like, properly
-  - 🟧 DBI
-  - 🟥 Mojolicious
-- 🟧 Learn SQL
-  - 🟧 SQLite
-  - 🟥 MySQL
-  - 🟦 maybe poke around at what other SQL DB stuff there is out there
-- 🟥 Learn Java
-  - 🟥 Minecraft modding stuff
-- 🟥 Learn SCSS
-- 🟦 Learn JavaScript + CoffeeScript (check out maybe PureScript instead?)
-- 🟦 ...Rust?
-- 🟦 ......Haskell??
+I mostly host stuff on [my own Gitea instance](https://git.hyperboreal.zone/nu). Any repos of mine you see here on Github that aren't forks are likely to be mirrors of repos from there for visibility purposes.
