@@ -4,7 +4,7 @@ i'm ngoomie and i stink
 
 I like Perl and webshite and sysadmin but I'm not good at any of them — maybe sysadmin if you're being really really generous
 
-My go-to Linux distros are Fedora and Rocky Linux for general prupose desktop and server stuff respectively
+My go-to Linux distros are Arch and Fedora for general prupose desktop and server stuff respectively
 
 I currently know a decent amount of Perl and some SQL, trying to learn Lua and Crystal
 
